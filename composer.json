@@ -1,0 +1,13 @@
+{
+    "name": "jager/directives",
+    "description": "A simpler way to define partial-like custom Blade directives using Blade files.",
+    "authors": [
+        {
+            "name": "Johan de Jager",
+            "email": "johan.dejager@live.nl"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+    "version": "1.0.0"
+}
