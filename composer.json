@@ -8,6 +8,16 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
+    "autoload": {
+        "classmap": [
+            "src"
+        ],
+        "psr-4": {
+            "Jager\\Directives\\": "src/"
+        }
+    },
+    "require": {
+		"illuminate/support": "~5.2"
+    },
     "version": "1.0.0"
 }
