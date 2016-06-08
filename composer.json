@@ -18,5 +18,4 @@
     "require": {
 		"illuminate/support": "~5.2"
     },
-    "version": "1.0.0"
 }
