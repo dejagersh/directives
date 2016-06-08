@@ -7,7 +7,6 @@
             "email": "johan.dejager@live.nl"
         }
     ],
-    "minimum-stability": "stable",
     "autoload": {
         "classmap": [
             "src"
