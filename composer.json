@@ -13,7 +13,7 @@
             "src"
         ],
         "psr-4": {
-            "Jager\\Directives\\": "src/"
+            "TheJager\\Directives\\": "src/"
         }
     },
     "require": {

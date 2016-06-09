@@ -1,6 +1,6 @@
 <?php
 
-namespace Jager\Directives;
+namespace TheJager\Directives;
 
 use File;
 
