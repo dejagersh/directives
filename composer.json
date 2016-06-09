@@ -1,6 +1,7 @@
 {
     "name": "thejager/directives",
     "description": "A simpler way to define partial-like custom Blade directives using Blade files.",
+    "type": "library",
     "authors": [
         {
             "name": "Johan de Jager",
