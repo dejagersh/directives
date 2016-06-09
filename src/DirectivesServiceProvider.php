@@ -73,6 +73,9 @@ class DirectivesServiceProvider extends ServiceProvider
         });
     }
 
+    /*
+     * Builds the regex to be used for finding custom directives.
+     */
     private function buildRegex($directivePaths) {
         // Start of regex
         $regex = '/\@(';
