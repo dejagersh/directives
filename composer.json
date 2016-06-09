@@ -1,5 +1,5 @@
 {
-    "name": "jager/directives",
+    "name": "thejager/directives",
     "description": "A simpler way to define partial-like custom Blade directives using Blade files.",
     "authors": [
         {
@@ -16,6 +16,6 @@
         }
     },
     "require": {
-		"illuminate/support": "~5.2"
+      "illuminate/support": "~5.2",
     }
 }
